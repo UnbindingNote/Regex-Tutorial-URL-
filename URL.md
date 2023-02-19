@@ -1,6 +1,6 @@
 # Matching a URL with a Regular Expression (Regex)
 
-The following gist with provide a description of the 
+The following gist will provide a description and explanations of the URL Matching Regex.
 
 ## Summary
 
