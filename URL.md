@@ -63,7 +63,8 @@ The main OR operator used in the above regex is the `[]`. Which is better explai
 The expression will match for any characters or character classes included in the brackets. For example the `[\da-z\.-]` expression matches numerical digits (`\d`) OR alphabetical characters between a and z (`a-z`) OR any '.' (`\.`) OR any '-' (`-`). 
 
 ### Character Escapes
-If you need to escape a character in a string literal, you will need to use the dollar sign ($) instead of percent (%). An example would be; use query=title%20EQ%20"$3CThe title$3E" instead of query=title%20EQ%20'%3CThe title%3E'.
+If you need to escape a character in a string literal, you will need to use the dollar sign ($) instead of percent (%). An example would be; <br>
+use query=title%20EQ%20"$3CThe title$3E" instead of query=title%20EQ%20'%3CThe title%3E'.
 
 ## Author
 
